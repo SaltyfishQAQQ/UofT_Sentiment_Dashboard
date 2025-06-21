@@ -1,0 +1,5 @@
+
+project_venv
+terrieta/.ipynb_checkpoints
+*.pyc
+terrieta/pycache
