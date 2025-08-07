@@ -1,0 +1,260 @@
+submission_title,author,id,url,created_utc,body,type,score
+My thoughts (and tips) on every course I took so far (UofT Computer Engineering),UofTComputerEngineer,1ctnoq7,https://www.reddit.com/r/UofT/comments/1ctnoq7/my_thoughts_and_tips_on_every_course_i_took_so/,1715893014.0,"I've recently completed my third year of computer engineering at UofT, and I wanted to share my thoughts on the courses I've taken. I hope this will be beneficial to incoming first, second, and third-year engineering students. My area of depth is 6 (Software) and my areas of breadth are 4 (Control) and 5 (Computer hardware/networks). 
+
+Difficulty: How hard it was to comprehend course material and/or complete practice problems accurately. Keep in mind that difficulty is subjective but I tried to eliminate personal bias and be as objective as possible. 
+
+Workload: The amount of work to complete outside of lectures (labs, assignments, homework, studying for tests/exams).
+
+All engineers take the exact same courses in their first year first semester and similar ones in second semester. I took these courses in 2021 during covid so some information might be outdated. 
+
+**First Year Semester 1:**
+
+**APS100 Orientation to Engineering:**
+
+Difficulty: 1/10   Workload: 3/10  Course Average: N/A
+
+There is no technical material in this course. All coursework consists of Ethics analysis, creating a schedule for time management, creating your resume, and discussion board participation. During tutorials, the TA typically asks behavioral questions to the class and covers slides pertaining to engineering principles, the learning environment, test readiness, and related topics.
+
+**APS110 Engineering Chemistry and Materials Science**      
+
+Difficulty: 6/10  Workload: 5/10  Course Average: B
+
+This course blends elements of chemistry, physics, and mathematics, requiring lots of formulas and memorization. The assignments and online quizzes were moderately difficult. Not sure if he’s still teaching but Scott Ramsay was a really good professor. Really enjoyed watching his video demonstrations. 
+
+**APS111  Engineering Strategies and Practices I**
+
+Difficulty: 3/10  Workload: 6/10 (Variable)  Course Average: B
+
+Students are organized into groups of 5-6 and are assigned the task of developing a solution for a client, following the engineering design process. Success in this course heavily relies on your team. Throughout the semester, there are several milestones where you need to submit large reports with your team, making it crucial to have capable teammates. Many teams resorted to last-minute cramming the night before each milestone (not a good idea). Additionally, there are two peer reviews, so make sure you contribute to avoid being perceived as an unproductive member. In most cases, you don’t need to worry about this though. You’d likely all be good friends by that point (and give each other a perfect review).
+
+**CIV100  Mechanics**  
+
+Difficulty: 9/10  Workload: 9/10  Course Average: C+
+
+The consensus among most students in my year was that this was the toughest first year course. It's incredibly calculation heavy, with questions that may appear straightforward in theory but require multiple steps to solve. Even a minor error can screw up your entire calculation process. The assignments are extremely time-consuming, and the quizzes pose significant challenges. I suggest you work in a group for the assignments. Furthermore, both the final exam and midterm were exceptionally difficult.
+
+**MAT186 Calculus I**                 
+
+Difficulty: 4/10  Workload: 4/10  Course Average: B
+
+If you’ve taken IB or AP this course will be a breeze. Even without that background, it's still relatively straightforward. Very little on integrals, mostly derivatives, rates of change, and graphs. PCEs and WebWorks were trivial, and the midterm and exam were easy.
+
+**MAT188  Linear Algebra**
+
+Difficulty: 7/10  Workload: 7/10  Course Average: B-
+
+The majority of the course revolves around relatively straightforward operations on matrices and vectors. However, it does introduce abstract concepts like higher-order dimensions, which may require some deeper thinking to fully grasp. Webwork assignments were slightly more challenging compared to MAT186's, and completing assignments took a while. Once again, you should work with a partner or as a group. Pay attention in the MATLAB practicals because you’ll be using MATLAB pretty often in future courses.
+
+**First Year Semester 2:**
+
+**APS105  Computer Fundamentals**
+
+Difficulty: 6/10  Workload: 5/10   Course Average: B-
+
+If you’ve taken programming in high school, you will likely find this course very easy (2/10 difficulty). The course covers simple programming syntax, along with basic sorting algorithms, without delving into more advanced concepts beyond linked lists and binary trees. I do know many people who struggled though. I think that this was one of the more enjoyable courses of first year. Edit: perhaps not as easy as I described. Make sure to get programming experience in the summer before first year if you don’t already have it.  
+
+**APS112  Engineering Strategies and Practices II**
+
+Difficulty: 5/10  Workload: 7/10  (Variable)  Course Average: B+
+
+This course is essentially a continuation of APS111, but with the added component of being assigned an actual client with a real-world problem statement. Each group works with a unique client, and at the end of the term, you present your final report directly to them, along with your supervisors. As with APS111, the quality of your team plays a crucial role in your success. Another thing to note is that unlike APS111, there were multiple individual assignments to complete on top of your team reports.
+
+**ECE110  Electrical Fundamentals**
+
+Difficulty: 8/10  Workload: 6/10  Course Average: C+
+
+Definitely one of the harder first year courses. This course marks your introduction to circuits. Topics covered include capacitors, Ampere's law, Ohm's law, Kirchhoff's laws, AC/DC circuits, magnetism, Thevenin and Norton equivalents, and more. The material is extensive and requires thorough understanding, as many future courses will build upon its concepts. Make sure that you understand the content well, given its foundational importance in subsequent courses. 
+
+**ECE191  Introduction to Electrical and Computer Engineering**  
+
+Difficulty: 0/10  Workload: 1/10  Course Average: N/A
+
+Seminar course. You just need to show up to the lectures (one per week) and submit a 100-ish word report about what you learned. 
+
+**MAT187  Calculus II**
+
+Difficulty: 6/10  Workload: 5/10  Course Average: C+
+
+The workload in this course is comparable to Calc I, but the content is more challenging (obviously). It delves deeper into integrals and introduces concepts like ordinary differential equations and polar coordinates. But again, you’ll manage just fine if you did decently in Calc 1, and especially if you’ve taken AP math or IB HL math. 
+
+**MIE100  Dynamics**
+
+Difficulty: 8/10  Workload 4/10  Course Average: C+
+
+I personally found this to be the most challenging course in first year, but it seems that most people disagree with me. It shares similarities with CIV100, but you’re instead dealing with dynamic systems (moving) rather than static ones (not moving). Some concepts may prove difficult to grasp initially. However, if you focus on memorizing the relevant formulas and understanding when to apply them, you should be okay. Expect an emphasis on physics in this course.
+
+Second year was the worst (for ECE) and a very big step up from first year. If you struggled in first year, you better lock in for second year.
+
+**Second Year Semester 1:**
+
+**ECE201  ECE Seminar Course**
+
+Difficulty: 0/10  Workload: 0/10  Course Average: N/A
+
+Another seminar course, except you just need to attend 7/10 lectures to pass. Most students just scan their Tcard at the entrance then leave right after. The lectures are pretty useless except the Magellan one where they show you how to choose courses for 3rd and 4th year.
+
+**ECE212  Circuit Analysis**   
+
+Difficulty: 7/10  Workload: 8/10  Course Average: B+
+
+This course provides a deeper exploration of circuits, extending beyond circuit solving to include frequency and sinusoidal analysis. Questions tend to be long so careless errors will cost you. Personally, I found the labs challenging, particularly because they required working with oscilloscopes at a higher level than I was used to, and I could not for the life of me figure out how to use that thing. 
+
+**ECE241  Digital Systems**  
+
+Difficulty: 7/10  Workload: 8/10  Course Average: B-
+
+This hardware course focuses on the foundation of hardware. A lot of the content is at the fundamental level so it’s not too hard to comprehend. However, the main challenge lies in learning Verilog, a hardware description language. I hate Verilog. All the labs are done using Verilog, and frustratingly, the course provides no instruction on the language, nor are there many helpful resources available online. This lack of guidance made what should have been straightforward labs much more difficult. Thankfully if you are in CE, you’ll never need to take another course with Verilog again. The midterm was easy but the final was borderline impossible. 
+
+**ECE244  Programming Fundamentals**    
+
+Difficulty: 7/10  Workload: 7/10  Course Average: B-
+
+This course is the sequel to APS105, delving into more advanced concepts like pointers, constructors, polymorphism, and inheritance. Many of these topics may feel familiar if you have prior programming experience, particularly from high school. Consequently, if you're already proficient in programming, as many computer engineering students are, you should be able to navigate through this course well. The labs were generally manageable, although a couple of them were time-consuming. 
+
+**MAT290  Advanced Engineering Mathematics**  
+
+Difficulty: 7/10  Workload 8/10  Course Average: B
+
+In this course, you’ll learn a lot of miscellaneous mathematical concepts that will be relevant in future courses. The goal is to establish a strong foundation to facilitate understanding in third and fourth-year courses. There is also a quiz every week. They were terrible from a time management standpoint, but as long as you spent 3-4 hours per week completing the assigned textbook questions, you should be alright since one (out of two) of the questions on the quiz is guaranteed to be an assigned textbook question (at least, that was the case when I took the course).
+
+**MAT291  Calculus III**
+
+Difficulty: 9/10  Workload 9/10  Course Average: B-
+
+The entire workload comes from studying for those damn weekly quizzes, much like MAT290. Personally, I found it to be one of the most difficult courses I've ever taken. Think of calculus 2, but now everything is in three dimensions, encompassing concepts like surface integrals, flux integrals, and more. Additionally, the course introduces abstract topics that I still struggle to grasp. Balancing the demands of this course alongside everything else was an incredibly stressful experience.
+
+**Second Year Semester 2:**
+
+**ECE216  Signals and Systems**
+
+Difficulty: 8/10  Workload:7/10  Course Average: C+
+
+I think everyone hated this course. It was so poorly taught and the midterms felt haphazard and unpredictable. I relied on the power of BS to pass (worked surprisingly). Other than working with many graphs and MATLAB, I don’t remember much about this course because it was so uninteresting.
+
+**ECE221  Electric and Magnetic Fields**  
+
+Difficulty: 8/10  Workload: 5/10  Course Average: C+
+
+This course serves as an introduction to fields, while also expanding on the principles covered in ECE110. Many concepts build upon intuitive ideas, such as the repulsion of identical charges and attraction of opposite charges, which can make seemingly complex topics less intimidating. There are also many procedures that you need to know to solve specific types of questions. The labs are generally straightforward. You just need to follow the steps on the lab worksheet and answer a few simple questions from the TA.
+
+**ECE231  Intro to Electronics**
+
+Difficulty: 9/10  Workload: 7/10  Course Average: C+
+
+This course is basically circuit analysis but significantly harder. It combines everything you've learned about circuits thus far, introducing new topics on top of that foundation. There are so many new concepts to learn and the final pretty much tests you on all of them. I’ve encountered multiple scenarios where I saw two concepts that I thought were completely separate from each other being integrated into a single question on an exam. Also very calculation heavy. Despite my experience in this course, I must admit Khoman Fang was a great professor.  
+
+**ECE243  Computer Organization**
+
+Difficulty: 7/10  Workload: 6/10  Course Average: B
+
+This course is a direct continuation of ECE241, and surprisingly, I found it a lot more enjoyable than its prerequisite. The focus is on Assembly language programming, which I found to be way more understandable compared to Verilog. Assembly operates at a fundamental level, so you’re technically working with the most basic building blocks in programming. The labs often involved seemingly simple tasks like counting to 10 on a HEX display, but the nature of Assembly meant that achieving this could require hundreds of lines of code. I appreciated these labs as they provided a refreshing change from the usual programming tasks. Final and midterm exams were relatively easy.
+
+**ECE297  Software communication and design**
+
+Difficulty: 8/10  Workload: 9/10 (Variable)  Course Average: B+
+
+Despite the demanding workload, this course was one of my favorites. The main project involved collaborating in teams of three to develop a geographical information system (similar to Google Maps). Unlike other courses where teams are assigned, here you have the freedom to choose your own teammates. Starting off, your team is given only the OpenStreetMap database, and the APIs, granting you complete control over your project's design, functionality, and optimization. Performance enhancement and pathfinding algorithms were key components of the project. It's crucial for all team members to contribute effectively for success in this course; And trust me, this is not a one or two person project. To succeed in this course, all three members must be doing their share.
+
+**Third Year:**
+
+They say that third year is the easiest year for ECE, but that depends on what courses you choose. For me, it was only slightly easier than second year but still significantly harder than first year. 
+
+**APS360 Fundamentals of Deep Learning**
+
+Difficulty: 8/10  Workload : 8/10  Course Average: B+
+
+This course felt fundamentally very different compared to the other programming related courses. If you’re unfamiliar with deep learning, the content can be overwhelming but the inner workings behind AI are both fascinating and challenging to grasp. Fortunately, much of the coding in the course revolves around preparing data, setting up AI architectures, and training/testing models, rather than building an AI from scratch. While the labs are manageable, the final project can be very time consuming, particularly as training a single model can require hours or even days. Regarding this aspect, make sure you start early. Both the midterm and final exams were quite difficult.
+
+**ECE302 Probability and Applications**
+
+Difficulty:  7/10  Workload: 3/10  Course Average: B-
+
+The first half of this course is very straightforward. Just an introduction to probability. The second half is where the difficulty quickly ramps up. Make sure you don’t underestimate the second half of the course. I made the mistake of assuming the material was easy after performing well on both midterms (midterms were very easy), leading me to neglect the final third of the course so I flunked the final. FYI, our marks were determined solely by the 2 midterms and the final. 
+
+**ECE344 Operating Systems**
+
+Difficulty: 8/10  Workload: 10/10  Course Average: B
+
+This course had the most difficult and demanding labs I’ve ever seen in my life. They are due every two weeks and some of them took most students more than 15 hours to complete. I’ve seen people staying up all night in the GB computer rooms to finish these labs. One positive aspect of the course if Jon Eyolfson is your professor, is that all lectures are both recorded and live-streamed, allowing attendance in person, online synchronously, or asynchronously. But if you have Ding Yuan, good luck. I heard he is not only bad at teaching, but also makes you program an operating system from scratch. The course content is quite interesting and the Midterm and final exams were fair. 
+
+**ECE345 Algorithms and Data Structures**
+
+Difficulty: 8/10  Workload: 7/10  Course Average: B+
+
+If you're one of those programming geniuses who have been doing Leetcode since like 3 years old, you’d have likely already learned all course content before you’ve even started the course. You could probably write midterm and final exams without attending any lectures. However, if you're not as experienced, attending every lecture, taking detailed notes, and staying focused is crucial. Personally speaking, some algorithms were incredibly difficult for me to grasp, while others were simple. Assignments typically include both coding and long-answer components, which can be time-consuming, but you can work with a partner. 
+
+**TEP444 Positive Psychology for Engineers**
+
+Difficulty:  1/10  Workload: 3/10  Course Average: A- 
+
+This course overall was very enjoyable and a nice refreshing experience from the other technical courses. You go on excursions to various locations with your group and write reports. It's an excellent opportunity to expand your social circle and make new friends. If you aim for an A- grade (80-85), you can breeze through with minimal effort. However, achieving a higher grade (A or A+) would require significantly more work (like 5 times more, no joke), which is not worth the extra effort in my opinion.
+
+**CSC343  Introduction to Databases**
+
+Difficulty: 7/10  Workload: 10/10  Course Average: Unreleased
+
+The content of this course is actually pretty interesting and is taught well. But the assignments were excessively time consuming. There are only three in total, but each one demanded such a significant investment of time to the point where I contemplated dropping the course altogether. You do work with a partner (going solo isn’t even an option if you want to complete the assignments) but even so, be prepared to invest 15-30 hours per person, per assignment (they also mark hard). Despite the workload, I do recommend taking this course because knowing SQL can substantially benefit you in the future. Just start the assignments early. On a positive note, the midterm and final were relatively straightforward.
+
+**ECE311  Introduction to Control Systems**        
+
+Difficulty: 10/10  Workload: 5/10  Course Average: C+
+
+This course didn't come with a heavy workload, consisting only of three labs and two midterms. However, I found the content to be very challenging. It felt like they condensed and combined every concept from every engineering math and physics course into one. Topics ranged from circuits and dynamics to Laplace transforms, matrices, Bode plots, and more. It didn’t help that Prof Scardovi didn’t record any lectures, has messy handwriting, and uses a damn chalkboard instead of modern technology like other profs do. The midterms and final were somewhat lenient compared to the lectures, but this course still ended up being my lowest mark.
+
+**ECE361  Computer networks I**
+
+Difficulty: 8/10  Workload: 9/10  Course Average: B
+
+This course requires a lot of memorization compared to other courses. You’ll have to understand calculation processes but also memorize a lot of general knowledge about networks. A problem with this course is that some concepts that show up in tests are not adequately explained in lectures. By far the best way to study is to do past exams. Professor Valaee often recycles questions, sometimes even directly copying past midterms and finals (like he did in my cohort). Unlike other courses, there is no big assignment/lab for this course, but it makes up for it with quantity. There’s a quiz every week, a wireshark lab every 2 weeks, a programming lab every 2 weeks, and a midterm. The programming labs are already difficult by themselves, but this cumulative workload felt very overwhelming.
+
+**ECE472  Engineering Economics and Entrepreneurship**
+
+Difficulty: 7/10  Workload: 5/10  Course Average: B+
+
+This is straight up an economics course, no engineering at all. You’ll learn about investments, equity, financing, and related areas. There are 4 quizzes throughout the semester, with quiz 3 (quiz 3 specifically) being by far the hardest (average in the 50s). Since you're able to bring your textbook to the quizzes and exam, my biggest tip is to write past quiz and exam solutions in your textbook, as there's a limited pool of questions, and new questions often resemble some kind of variation of past ones. 
+
+**ECE421 Introduction to Machine Learning**
+
+Difficulty: 9/10  Workload: 7/10  Course Average: unreleased
+
+While the course content itself may be challenging, surprisingly, the midterm and final exams were pretty easy. There's a slight discorrelation between the lecture material and what appears on the exams, but relying on past exams for preparation should be enough. The course leans heavily on mathematical concepts, much more so than APS360. The assignments were difficult and tedious but I recommend you work with others to complete it.
+
+With that, I've covered my thoughts and tips for all the engineering courses I've completed. Transitioning into your next year in engineering, particularly if you’re transitioning from high school, can feel daunting. However, remember that you're not alone in this experience – many of your peers are facing similar challenges. If you need any more advice or have questions, feel free to reach out to me via DMs!",submission,54
+My thoughts (and tips) on every course I took so far (UofT Computer Engineering),payloadchap,l4e7r1i,https://www.reddit.com/r/UofT/comments/1ctnoq7/my_thoughts_and_tips_on_every_course_i_took_so/l4e7r1i/,1715909995.0,"Since OP didn't do ECE295, here's my take on the course:
+
+**ECE295: Hardware Design and Communication**
+
+Difficulty: 8/10 (variable) Workload: 10/10  Course Average: B+
+
+Because this course randomly splits students into 4 different subsystems, the difficulty of the project will depend on which subsystem you're given. Purely from the metric of which subsystem had the highest frequency of working designs, it seems that the MCU subsystem is probably the easiest (7/10 difficulty) followed by the analog subsystems (9/10) and then the FPGA subsystem (10/10). I believe the FPGA subsystem is being discontinued due to it being too difficult.
+
+This course is the most important course of my undergraduate so far. The difficulty was very high because you had to learn so many concepts ahead of time. For example, those in the analog subsystems had to learn about filters and transistor circuit design before we actually learned about them in 216 and 231! The workload was especially brutal. ECE295 had two distinct crunch times: finalizing the PCB design in Altium before shipment and completing the validation process before integration. In ECE297, your grade is based off of the performance of your code, and its baseline ability to function is a given. In ECE295, the main goal is for it to work in the first place! This imposes a very different kind of pressure where, if you're unlucky, you might end up spending many dozens of hours in the Myhal Fabrication Lab desperately trying to figure out why the results on your oscilloscope don't make any sense whatsoever. And in the end it turned out that the schematic accidentally had two pins inverted :')
+
+However, my TA was amazing, and they were able to assist my team in just the right amount, such that we still had to do a lot of self-learning but not to the point where it felt like the teaching team was being too neglectful.
+
+This is so interesting. As a math guy who decided to do EE, my thoughts on the courses are almost the inverse of yours. My favourite courses from second year were ECE216 and ECE241! I also found ECE302 and ECE421 very straightforward. Meanwhile, I barely passed APS105 and ECE244... for any future ECE student reading, please learn some programming before first year! DO NOT let APS105 be your first introduction to programming!!",comment,10
+My thoughts (and tips) on every course I took so far (UofT Computer Engineering),kamminari2,l4eavu0,https://www.reddit.com/r/UofT/comments/1ctnoq7/my_thoughts_and_tips_on_every_course_i_took_so/l4eavu0/,1715911299.0,We should have more posts like this 🔥🔥,comment,7
+My thoughts (and tips) on every course I took so far (UofT Computer Engineering),DrPraeclarum,l4evye8,https://www.reddit.com/r/UofT/comments/1ctnoq7/my_thoughts_and_tips_on_every_course_i_took_so/l4evye8/,1715921521.0,"Amazing post, hopefully I'll be able to make one in the future too... lol.
+
+It's weird how much things have changed though. I'm surprised you said MAT186 was ""easy"" since this year many people seemed to have struggled, with it being the lowest course average out of every first year course. Though of course this makes sense as course coordinators change every year.",comment,3
+My thoughts (and tips) on every course I took so far (UofT Computer Engineering),G81111,l4g3b1w,https://www.reddit.com/r/UofT/comments/1ctnoq7/my_thoughts_and_tips_on_every_course_i_took_so/l4g3b1w/,1715949203.0,ECE244 same difficulty as MAT290 when you are a software guy? Man you must be bad at coding,comment,2
+My thoughts (and tips) on every course I took so far (UofT Computer Engineering),G81111,l4g3bjj,https://www.reddit.com/r/UofT/comments/1ctnoq7/my_thoughts_and_tips_on_every_course_i_took_so/l4g3bjj/,1715949208.0,ECE244 same difficulty as MAT290 when you are a software guy? Man you must be bad at coding,comment,2
+My thoughts (and tips) on every course I took so far (UofT Computer Engineering),deleted,l4iyltx,https://www.reddit.com/r/UofT/comments/1ctnoq7/my_thoughts_and_tips_on_every_course_i_took_so/l4iyltx/,1715987444.0,I really want to do uoft comp engineering but I’m pretty sure I’ll get rejected from the waitlist. Should I do uoft Scarborough CS and try to transfer from there or assuming I get deferred to another engineering program should I try to transfer from there. Which path is easier. I also have 19k scholarship for uoft Scarborough so is it even worth trying to transfer out? Some advice would be appreciated mr uoft computer engineer :),comment,1
+My thoughts (and tips) on every course I took so far (UofT Computer Engineering),AutoModerator,l4d1so1,https://www.reddit.com/r/UofT/comments/1ctnoq7/my_thoughts_and_tips_on_every_course_i_took_so/l4d1so1/,1715893015.0,"Your submission appears to be about undergraduate admissions. Please use the admissions megathread in the future if this is the case! #Thank you. https://www.reddit.com/r/UofT/comments/1996rbb/uoft_undergrad_admissions_mega_thread_fall_2024/
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/UofT) if you have any questions or concerns.*",comment,-1
+My thoughts (and tips) on every course I took so far (UofT Computer Engineering),UofTComputerEngineer,l4ea866,https://www.reddit.com/r/UofT/comments/1ctnoq7/my_thoughts_and_tips_on_every_course_i_took_so/l4ea866/,1715911020.0,"Thanks for adding ECE295! But yeah that is really interesting. I've never thought about how being more software aligned than hardware aligned would affect my perspective on these courses. But now that you've brought it up, it does make a lot of sense! I've learned coding since grade 9 and always hated signals and hardware courses, so I guess it was inevitable that my opinions were skewed towards software related courses.",comment,2
+My thoughts (and tips) on every course I took so far (UofT Computer Engineering),UofTComputerEngineer,l4ft0xz,https://www.reddit.com/r/UofT/comments/1ctnoq7/my_thoughts_and_tips_on_every_course_i_took_so/l4ft0xz/,1715944273.0,"Wow that’s surprising... But yeah take my reviews with a grain of salt. Difficultly is very dependent on your professor and many other factors. 
+
+But  They should really rethink making calc 1 the hardest course of all courses lol",comment,1
+My thoughts (and tips) on every course I took so far (UofT Computer Engineering),drahcirx,l4g85w0,https://www.reddit.com/r/UofT/comments/1ctnoq7/my_thoughts_and_tips_on_every_course_i_took_so/l4g85w0/,1715951278.0,Or maybe you’re just bad at math,comment,2
+My thoughts (and tips) on every course I took so far (UofT Computer Engineering),UofTComputerEngineer,l4giwgi,https://www.reddit.com/r/UofT/comments/1ctnoq7/my_thoughts_and_tips_on_every_course_i_took_so/l4giwgi/,1715955448.0,"First of all, I did find 244 to be slightly easier than 290 but that beacuse I had programming experience going into uni so I tried to rate the course more objectively. And do you not understand that the difficulty and content of a course can change from year to year? I know several people who thought that 290 was easier than 244 (in fact I think most people in my year did). Maybe use your brain a little.",comment,1
+My thoughts (and tips) on every course I took so far (UofT Computer Engineering),UofTComputerEngineer,l4jan2u,https://www.reddit.com/r/UofT/comments/1ctnoq7/my_thoughts_and_tips_on_every_course_i_took_so/l4jan2u/,1715992672.0,"If your main goal is just to transfer to St. George comp eng, for sure accept the engineering program you got deferred to. If you can maintain an 80 in fall and winter semester of first year, you’re guaranteed the transfer. You won’t miss anything either because all first year engineering courses are the same for everyone. Transferring from Scarborough Cs will be very difficult I imagine. But then again you have a 19k scholarship, so weigh your options carefully!",comment,2
+My thoughts (and tips) on every course I took so far (UofT Computer Engineering),Mytorontoacct,l4i4b28,https://www.reddit.com/r/UofT/comments/1ctnoq7/my_thoughts_and_tips_on_every_course_i_took_so/l4i4b28/,1715975637.0,"I'm old(ish) when I was in my first year all the upper years said calc 2 was the hardest course they took, but in my year it was fine. I think that's just how the first year calc courses pan out sometimes they're really bad, sometimes they aren't.",comment,1
+My thoughts (and tips) on every course I took so far (UofT Computer Engineering),G81111,l4g9mcw,https://www.reddit.com/r/UofT/comments/1ctnoq7/my_thoughts_and_tips_on_every_course_i_took_so/l4g9mcw/,1715951875.0,"nah go ask people to rank ece244 and 290, no way they rank it the SAME. ranking it both that hard means something is wrong",comment,1
+My thoughts (and tips) on every course I took so far (UofT Computer Engineering),G81111,l4k08q3,https://www.reddit.com/r/UofT/comments/1ctnoq7/my_thoughts_and_tips_on_every_course_i_took_so/l4k08q3/,1716004902.0,it’s not just slightly easier. the amount of practice and effort required to do those infinite series and contour integrals are way more than figuring out pointers and linked list,comment,1
+My thoughts (and tips) on every course I took so far (UofT Computer Engineering),drahcirx,l4gjzd6,https://www.reddit.com/r/UofT/comments/1ctnoq7/my_thoughts_and_tips_on_every_course_i_took_so/l4gjzd6/,1715955838.0,nah skill issue. 290 was way easier than 244,comment,1
+My thoughts (and tips) on every course I took so far (UofT Computer Engineering),G81111,l4k01ta,https://www.reddit.com/r/UofT/comments/1ctnoq7/my_thoughts_and_tips_on_every_course_i_took_so/l4k01ta/,1716004797.0,"nah not skill issue, i scored higher on 290 than 244 but the effort spent in the courses are not comparable",comment,0
+My thoughts (and tips) on every course I took so far (UofT Computer Engineering),drahcirx,l4l9x4b,https://www.reddit.com/r/UofT/comments/1ctnoq7/my_thoughts_and_tips_on_every_course_i_took_so/l4l9x4b/,1716034528.0,So you legit did worse on 244 and you’re shitting on people who think 244 is harder than 290. Makes no sense,comment,2
+My thoughts (and tips) on every course I took so far (UofT Computer Engineering),G81111,l4lawd2,https://www.reddit.com/r/UofT/comments/1ctnoq7/my_thoughts_and_tips_on_every_course_i_took_so/l4lawd2/,1716035027.0,cause it’s still an 89 and 95? but i spent no time reviewing and doing 244 except for labs while i spent 4 hours plus every week just doing 290 suggested problems?,comment,1
+My thoughts (and tips) on every course I took so far (UofT Computer Engineering),drahcirx,l4lbssv,https://www.reddit.com/r/UofT/comments/1ctnoq7/my_thoughts_and_tips_on_every_course_i_took_so/l4lbssv/,1716035487.0,It’s unfortunate that you can’t accept it when people have a different opinion,comment,2

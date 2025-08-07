@@ -1,0 +1,139 @@
+submission_title,author,id,url,created_utc,body,type,score
+U of T mathematics course guide: I analyzed all the prerequisites for U of T mathematics courses,deleted,1dnupvs,https://www.reddit.com/r/UofT/comments/1dnupvs/u_of_t_mathematics_course_guide_i_analyzed_all/,1719280766.0,"My inspiration was that there is a nice graph online of prerequisites for Computer Science and Statistics courses already, but none for mathematics courses. This is based on a version I wrote mainly to help myself since the prerequisites on the academic calendar can be hard to read, so it may contain errors.
+
+# Foundations
+
+For first-year calculus / analysis, there are several options:
+
+* MAT133 or (MAT135 and MAT136) - This allows for entry into MAT235 second year
+* MAT137 or (MAT135, MAT136, and MAT138) - This allows for entry into MAT237 and MAT235 second year
+* MAT157 - This allows for entry into MAT257, MAT237, and MAT235 second year
+
+For introductory linear algebra, there are also several options:
+
+* MAT223 and MAT224 - The standard linear algebra courses
+* MAT240 and MAT247 (Requires MAT157 as corequisite) - This allows for entry into MAT257 second year
+
+For second-year calculus / analysis, there are three options:
+
+* MAT235 (Requires MAT133 or (MAT135 and MAT136))
+* MAT237 (Requires MAT137 or (MAT135, MAT136, and MAT138))
+* MAT257 (Requires MAT157 and MAT247)
+
+Students in MAT235 and MAT237 can also choose to take MAT246 Concepts in Abstract Mathematics which will allow them to take more courses. MAT257 students are not allowed to take MAT246, but they are allowed to take any course that requires it.
+
+On the list below, if a course has a bullet point, it requires the course above it as a prerequisite.
+
+**Note: MAT237 can always be taken instead of MAT235 and MAT257 can always be taken instead of MAT235, MAT237, or MAT246.**
+
+**MAT357 can be taken instead of MAT337, MAT267 can be taken instead of MAT244, MAT351 can be taken instead of APM346, MAT347 can be taken instead of MAT301, and MAT354 can be taken instead of MAT334.**
+
+# Do not require Multivariable Calculus
+
+These courses only require linear algebra as a prerequisite.
+
+MAT332 Introduction to Graph Theory
+
+MAT344 Introduction to Combinatorics
+
+MAT329 Concepts in Elementary Mathematics
+
+APM306 Mathematics and Law
+
+# Requires MAT235
+
+MAT244 Differential Equations (MAT235 is corequisite)
+
+* APM348 Mathematical Modelling
+* APM346 Partial Differential Equations
+   * APM441 Asymptotic and Perturbation Methods (Also requires MAT334)
+   * APM446 Applied Nonlinear Equations
+   * APM466 Mathematical Theory of Finance (Also requires STA457 as corequisite and STA347)
+
+MAT335 Chaos, Fractals, and Dynamics (MAT137 can be taken instead of MAT235)
+
+APM462 Nonlinear Optimization
+
+MAT334 Complex Variables
+
+* MAT417 Analytic Number Theory
+
+# Requires MAT235 and MAT246
+
+MAT301 Groups and Symmetries
+
+* MAT401 Polynomial Equations and Fields
+* MAT402 Classical Geometries
+* MAT403 Classical Geometries II
+* APM461 Combinatorial Methods
+
+MAT337 Introduction to Real Analysis
+
+* MAT461 (Also requires APM346)
+* APM421 Mathematical Foundations of Quantum Mechanics
+
+MAT315 Introduction to Number Theory (MAT157 can be taken instead of MAT235 and MAT246)
+
+MAT309 Introduction to Mathematical Logic
+
+MAT370 Introduction to Mathematical Probability
+
+# Requires MAT237
+
+MAT245 Mathematical Methods in Data Science (MAT237 is corequisite)
+
+MAT363 Geometry of Curves and Surfaces (MAT257 can be taken as corequisite)
+
+* APM426 General Relativity (Requires MAT363 or MAT367)
+
+MAT436 Introduction to Linear Operators (With 5.0 MAT credits)
+
+MAT437 K-Theory and C\* Algebras (With 5.0 MAT credits)
+
+# Requires MAT237 and MAT246
+
+MAT327 Introduction to Topology (MAT157 can be taken instead of MAT237 and MAT246)
+
+MAT367 Differential Geometry
+
+* MAT464 Riemannian Geometry
+
+# Specialist Courses (Requires MAT257)
+
+MAT347 Groups, Rings, and Fields (Specialist version of MAT301 and MAT401) (MAT247 can be taken instead of MAT257 with a mark of 85+)
+
+* MAT415 Algebraic Number Theory
+* MAT445 Representation Theory
+* MAT448 Introduction to Commutative Algebra and Algebraic Geometry
+
+MAT267 Advanced Ordinary Differential Equations (Specialist version of MAT244) (MAT257 is corequisite)
+
+* MAT351 Specialist Partial Differential Equations (Specialist version of APM346 but twice as long)
+
+MAT354 Complex Analysis I (Specialist version of MAT334)
+
+* MAT449 Algebraic Curves (Also requires MAT347)
+* MAT454 Complex Analysis II
+
+MAT357 Foundations of Real Analysis (Specialist version of MAT337)
+
+* MAT409 Set Theory
+* MAT457 Advanced Real Analysis I
+   * MAT458 Advanced Real Analysis II
+
+MAT377 Mathematical Probability Theory (Specialist version of MAT370)
+
+MAT425 Differential Topology (Also requires MAT327)
+
+Hope this helps, let me know if you have any feedback! Again I mainly analyzed this to help myself with course selection.",submission,41
+U of T mathematics course guide: I analyzed all the prerequisites for U of T mathematics courses,NotAName320,la9z3q3,https://www.reddit.com/r/UofT/comments/1dnupvs/u_of_t_mathematics_course_guide_i_analyzed_all/la9z3q3/,1719354353.0,"There is a courseography style graph for math specialist buried in the source code, doesnt actually show up on the courseography website though
+
+https://raw.githubusercontent.com/Courseography/courseography/00c051b4a38d48fea5bda9815464d79648942016/graphs/math_specialist2022.svg",comment,7
+U of T mathematics course guide: I analyzed all the prerequisites for U of T mathematics courses,numberflirtyfour,la684f1,https://www.reddit.com/r/UofT/comments/1dnupvs/u_of_t_mathematics_course_guide_i_analyzed_all/la684f1/,1719298842.0,"for y’all thats planning to do act sci major/spec, you can actually opt for MAT135(80%) and MAT235(80%) instead, you can confirm this by emailing the department yourself
+at least for MAT235 in my experience, its a lot easier than MAT237 both content and averages",comment,2
+U of T mathematics course guide: I analyzed all the prerequisites for U of T mathematics courses,deleted,lab9pax,https://www.reddit.com/r/UofT/comments/1dnupvs/u_of_t_mathematics_course_guide_i_analyzed_all/lab9pax/,1719372953.0,Thank you for sharing! I guess for my purposes this would have sufficed since I am doing a specialist but it would be nice if it had major courses as well.,comment,1
+U of T mathematics course guide: I analyzed all the prerequisites for U of T mathematics courses,Exciting-Ad-9921,la92koc,https://www.reddit.com/r/UofT/comments/1dnupvs/u_of_t_mathematics_course_guide_i_analyzed_all/la92koc/,1719343444.0,Wait what? I thot they only accept mat137 and 237,comment,1
+U of T mathematics course guide: I analyzed all the prerequisites for U of T mathematics courses,NotAName320,labe8gn,https://www.reddit.com/r/UofT/comments/1dnupvs/u_of_t_mathematics_course_guide_i_analyzed_all/labe8gn/,1719375163.0,"I've been meaning to fork courseography for a while for the sake of making linguistics and math charts (my programs besides cs), i think the big problem with a nice looking one for math is that the major and spec programs are so different that you can get a math specialist vs math major without a single course in overlap (tangential but i wonder how many programs you can say that about lol)",comment,1
+U of T mathematics course guide: I analyzed all the prerequisites for U of T mathematics courses,Altruistwhite,llhxxmu,https://www.reddit.com/r/UofT/comments/1dnupvs/u_of_t_mathematics_course_guide_i_analyzed_all/llhxxmu/,1725471119.0,Bro check meaning of ‘Thot’ before using it as an acronym,comment,1
+U of T mathematics course guide: I analyzed all the prerequisites for U of T mathematics courses,deleted,lgr66jw,https://www.reddit.com/r/UofT/comments/1dnupvs/u_of_t_mathematics_course_guide_i_analyzed_all/lgr66jw/,1722943198.0,Hey did you manage to make one?,comment,1
+U of T mathematics course guide: I analyzed all the prerequisites for U of T mathematics courses,NotAName320,lgsk5d9,https://www.reddit.com/r/UofT/comments/1dnupvs/u_of_t_mathematics_course_guide_i_analyzed_all/lgsk5d9/,1722961269.0,"no, it's on the project stack though",comment,1

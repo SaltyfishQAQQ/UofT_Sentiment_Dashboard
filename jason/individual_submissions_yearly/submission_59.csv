@@ -1,0 +1,29 @@
+submission_title,author,id,url,created_utc,body,type,score
+I made a chrome extension that integrates Rate My Prof into Acorn,MyBrainIsAMoneySink,1fko50m,https://www.reddit.com/r/UofT/comments/1fko50m/i_made_a_chrome_extension_that_integrates_rate_my/,1726761016.0,"Hey everyone, Kevin here! 👋 I've been working recently on a chrome extension that integrates professor ratings from Rate My Professor (RMP) directly into Acorn.
+
+[It will automatically fetch the information and display it to the courses you are currently enrolled in. ](https://preview.redd.it/hjplw5yraspd1.png?width=1280&format=png&auto=webp&s=18370e472b15fb3423bd78d0e29a827b8714c37d)
+
+[You can also search by courses to compare profs.](https://preview.redd.it/1ryfr2yadspd1.png?width=1280&format=png&auto=webp&s=6f2f176dba09829c431d4a4123ee4c8fbb7c4e61)
+
+All it really does is use a background service worker to fetch data from RMP. I then parse its data to get what I want and display it back into the acorn via content scripts. It's nothing too complicated but I'm pretty proud of it.
+
+Please give it a go at [https://chromewebstore.google.com/detail/rate-my-acorn/jiheeojkppjeojgmnjiicgemlgjlcgkl?authuser=0&hl=en--](https://chromewebstore.google.com/detail/rate-my-acorn/jiheeojkppjeojgmnjiicgemlgjlcgkl?authuser=0&hl=en--) let me know what you think!
+
+Source code is in chrome web page description.
+
+  
+Edit: Do note that for some profs, it wouldn't be able to find them as they're name on acorn might not be the same as on rate my prof.",submission,322
+I made a chrome extension that integrates Rate My Prof into Acorn,Inevitable-Sale6631,lnwzy5z,https://www.reddit.com/r/UofT/comments/1fko50m/i_made_a_chrome_extension_that_integrates_rate_my/lnwzy5z/,1726762421.0,Epic!,comment,29
+I made a chrome extension that integrates Rate My Prof into Acorn,Emperor-the-Xi,lnxgelg,https://www.reddit.com/r/UofT/comments/1fko50m/i_made_a_chrome_extension_that_integrates_rate_my/lnxgelg/,1726767569.0,Bro is so good he literally modded Acorn like a Fallout game,comment,49
+I made a chrome extension that integrates Rate My Prof into Acorn,MudSnake12,lnx1ada,https://www.reddit.com/r/UofT/comments/1fko50m/i_made_a_chrome_extension_that_integrates_rate_my/lnx1ada/,1726762851.0,looks awesome,comment,11
+I made a chrome extension that integrates Rate My Prof into Acorn,chrisabulium,lny5stb,https://www.reddit.com/r/UofT/comments/1fko50m/i_made_a_chrome_extension_that_integrates_rate_my/lny5stb/,1726779176.0,GOD'S WORK.,comment,9
+I made a chrome extension that integrates Rate My Prof into Acorn,BromineFromine,lnxxtxo,https://www.reddit.com/r/UofT/comments/1fko50m/i_made_a_chrome_extension_that_integrates_rate_my/lnxxtxo/,1726776655.0,Hi Kevin!,comment,9
+I made a chrome extension that integrates Rate My Prof into Acorn,notSanii,lnzz5v3,https://www.reddit.com/r/UofT/comments/1fko50m/i_made_a_chrome_extension_that_integrates_rate_my/lnzz5v3/,1726803510.0,This is insanely useful. Good work if it functions well. ,comment,5
+I made a chrome extension that integrates Rate My Prof into Acorn,angel_of_decay,lnyx58p,https://www.reddit.com/r/UofT/comments/1fko50m/i_made_a_chrome_extension_that_integrates_rate_my/lnyx58p/,1726788551.0,fabian parsch is goated,comment,5
+I made a chrome extension that integrates Rate My Prof into Acorn,FireMaster1294,lo0xqbl,https://www.reddit.com/r/UofT/comments/1fko50m/i_made_a_chrome_extension_that_integrates_rate_my/lo0xqbl/,1726824783.0,Absolute Legend,comment,2
+I made a chrome extension that integrates Rate My Prof into Acorn,SeyamTheDaddy,lo5ry73,https://www.reddit.com/r/UofT/comments/1fko50m/i_made_a_chrome_extension_that_integrates_rate_my/lo5ry73/,1726891294.0,"I read this as I have a chromosome extension, good night guys",comment,2
+I made a chrome extension that integrates Rate My Prof into Acorn,EnKoreXD,lo44wkg,https://www.reddit.com/r/UofT/comments/1fko50m/i_made_a_chrome_extension_that_integrates_rate_my/lo44wkg/,1726867152.0,Looks crazy! Hopefully uoft wouldn't ban this masterpiece,comment,1
+I made a chrome extension that integrates Rate My Prof into Acorn,raygun0407,lo4xk29,https://www.reddit.com/r/UofT/comments/1fko50m/i_made_a_chrome_extension_that_integrates_rate_my/lo4xk29/,1726877958.0,This is literally amazing,comment,1
+I made a chrome extension that integrates Rate My Prof into Acorn,yugos246,logla9s,https://www.reddit.com/r/UofT/comments/1fko50m/i_made_a_chrome_extension_that_integrates_rate_my/logla9s/,1727055341.0,It keeps adding teachers who aren't currently teaching the course :/,comment,1
+I made a chrome extension that integrates Rate My Prof into Acorn,KirakiraShoujo,lo389e9,https://www.reddit.com/r/UofT/comments/1fko50m/i_made_a_chrome_extension_that_integrates_rate_my/lo389e9/,1726856414.0,Fallout mentioned,comment,2
+I made a chrome extension that integrates Rate My Prof into Acorn,MyBrainIsAMoneySink,lny8pvg,https://www.reddit.com/r/UofT/comments/1fko50m/i_made_a_chrome_extension_that_integrates_rate_my/lny8pvg/,1726780079.0,hallo!,comment,9

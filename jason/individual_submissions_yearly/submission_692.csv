@@ -1,0 +1,159 @@
+submission_title,author,id,url,created_utc,body,type,score
+CS Out of Stream: History and Thoughts from a Fourth Year (Feature Length) ,DesertofSnow,1egztqx,https://www.reddit.com/r/UofT/comments/1egztqx/cs_out_of_stream_history_and_thoughts_from_a/,1722463393.0,"**TL;DR: Being out of stream can be hell on earth. Here's way too much info on it, so we can hopefully talk about it better. Some thoughts and advice are at the end.**
+
+I keep seeing topics of Computer Science admissions capacity and cutoff coming up in discussions and I want to compile as many of my thoughts as I can in one place. For some personal background, I was deferred to the Math/Physics stream, started in 2021-2022, and was admitted to the Computer Science Specialist with an average of 97.5 between CSC148/165. I have three main goals here: **providing a timeline** for prior years' admission situations, **consolidating our understanding** on expectations for this year, and **highlighting the struggles** of fighting for a spot in the CS program. If you want to hear my personal thoughts and advice, please skip to the end. Most of this post is just excessive information.
+
+***Part 1: Setting a Baseline***
+
+I can't review the full history here, but each year has some relevant statistics I'd like to share. 
+First, some baseline facts/observations: 
+
+- Since Fall 2020, it seems CS programs (across Major + Spec combined) attempt to keep a maximal capacity slightly above 500 total students. 
+
+- As of the 2022 intake, only in-stream students can enter the Computer Science Specialist. The Major is still available to all applicants, but this prevents out-of-stream students from having CS as their only program. 
+
+- In-stream students take CSC110/111 and MAT137 and are guaranteed admission upon meeting minimum grade requirements. 
+
+- Out-of-stream students take CSC148/165. We face a competitive admission system based on grad averaged between CSC148/165, and a written supplemental application. 
+
+- Historically, to get in from out-of-stream, you'd need a grade of at least A to A+ (≥85 in numeric score). 
+
+***Part 2: Timeline of Prior Years***
+Three notes. 
+
+First, I don't know enough about the 2020-2021 year and will not speak on it. 
+
+Second, what I'll list for each year. Mostly statistics: number of students starting in-stream (class size for 110/111), number of students in-stream at the end of the year, and approximate grade cutoffs (if known). Any other notes I have about a given year will be added in bullet point form. I will also list course instructors from each year. This is to provide more context, not to speak on the character of any professors. I know most of these instructiors; they're great profs, and they have their students' best interests at heart. 
+
+Third, I am not omniscient. I know a lot about my own year, less about future years, and there are things I will miss. Feel free to add to my information or correct me in comments. Without further ado, the timeline as I know of it: 
+
+**2021-2022**
+
+- CSC110 started with 500 spots, indicating a full 500 students admitted.
+- To my knowledge, at least 35 of students dropped out of those courses before the end of 111. 
+- The average grade in CSC111 was an A- (If memory serves. Please correct me on this if I'm wrong).  
+- I forget how big 148/165 were. I think 148 had about 1000-1400 spots and 165 had around 600-800? I recall the lectures having around 200 spaces per section. Again, please correct me on this if possible. 
+- CSC148 and 165 both had an average grade of B-. 
+- 110/111 both had two 250-student lecture sections. All were taught by Mario Badr. 
+- I recall 165 had four lecture sections. Two taught by François Pitt, two by Gary Baumgartner. 
+- CSC148 had seven lecture sections. Two with Diane Horton, three with Sadia Sharmin, two with Jonathan Calver. 
+- There were slight alterations here to maintain a hybrid online/in-person lecture format. 
+- The out-of-stream minimum average grade seemed to be around 89-90. I know students who got rejected with 90 averages and thise accepted with 89 averages.
+- From various sources, about 60 students made it in from out-of-stream. None of the sources are perfectly reliable, but enough accounts seem to check out that 60 is an agreed-upon estimate. 
+
+- 110/111 were generally considered fairly easy, until the 111 final. This was significantly more difficult than what the 111 students at the time had seen. Some suspect the course may have been curved but this is not confirmed in any way. There was an Average-Case Runtime question that many claimed was impossible to solve (unverified, and I've jokingly called this a skill issue on their part).
+- 165's final had a question about Cantor Expansions. Some rumours state no 165 student actually solved it correctly, but this is unverified and I find it a bit unlikely. However, the same question made it onto a CSC165 problem set in the following year. It was a difficult question, no doubt. The coordinator announced everyone received a grade adjustment, adding some number between 4 and 5% of their raw course mark to their final given grade. 
+- At least from 2021, this was the largest intial class of in-stream students until now. 
+
+**2022-2023**
+- CSC110 started with 420 spots. 412 students enrolled at max, and the course ended with 393 students enrolled.
+- CSC111 started with 410 spots, ending with 362 total students enrolled. Not sure what caused the numbers disparity, won't speculate.
+- CSC110 had two sections, one taught by David Liu and the other by Thomas Fairgrieve. 
+- CSC111 had two sections, one taught by David Liu and the other by Mario Badr. 
+- CSC148 had 1448 total spots, ending with 1097 students in the course. 
+- CSC148 had 7 lecture sections. two with Jonathan Calver, two with Diane Horton, one with Jacqueline Smith, one with Sophie Huynh, one with Misha Schwartz. 
+- CSC165 had 784 total spots, ending with 684 students enrolled. 
+- CSC165 had 4 lecture sections, two with Thomas Fairgrieve and two with Gary Baumgartner.
+- I don't know as much about out-of-strean admissions grades from here on out, but I've heard they were noticeably lower than 2021-2022. Current best estimate from comments is around 85 (thanks u/danield424_) 
+
+- My numbers here are exact now as this is when the UofT Timetable Tracker (a classmate's pet project) started tracking course enrolment numbers. You can google it for the link. 
+- I don't have more notes on this year as I wasn't directly involved. Expect even fewer notes for next year. 
+
+**2023-2024**
+- CSC110 started with 370 spots, ending with 314 students enrolled. 
+- CSC110 had two lecture sections, one with Sadia Sharmin, one with Thomas Fairgrieve. 
+- CSC111 started with 370 spots, ending with 308 students enrolled. 
+- CSC111 had two lecture sections, both with Sadia Sharmin.
+- CSC148 had a fall offering with two lecture sections, both with David Liu. Started with 392 spots, ended with 323 students enrolled. 
+- CSC148 winter started with 1252 total spots, ended with 905 total students. There were 6 lecture sections. Two with Diane Horton, two with Jonathan Calver, one with Sophia Huynh, one with Joonho Jonathan Kim. 
+- CSC165  started with 784 spots (same as last year) and ended with 624 total students. 
+- CSC165 had four lecture sections, two with François Pitt and two with Gary Baumgartner. 
+- Again, I don't know much about out-of-stream cutoffs here. Again, the cutoff seemed to be a bit lower than last year's. Possibly around a minimum of 78 (thanks u/Just2Ghosts)
+
+- This was the first year since at least 2021-2022 to have a Fall offering of either CSC148 or CSC165. 
+
+**2024-2025**
+- CSC110 has 525 spots, with 4 apparently still waitlisted (these may be duplicates). This is after an increase in lecture capacity. Woah. 
+- CSC110 has two lecture sections, one with Sadia Sharmin, and one with an instructor that seems to be TBA (To Be Announced). 
+- CSC111 is the same situation, to be expected, except both sections are definitely taught by Sadia. 
+- CSC148F has 392 spots, two lecture sections both taught by Bahar Aameri.
+- CSC148S has 1222 spots, six lecture sections, with the only known instructor being Jonathan Calver for two sections.
+- CSC165 had 784 spots, four sections, two with François Pitt and two with Gary Baumgartner (as usual). 
+
+**Part 3: What does any of this mean?** 
+
+Ok, now that we have some historical record with entirely too much detail, what do we do with this? Analyze it a bit. 
+
+We can see that in-stream numbers had been shrinking for the last three years. Relatedly, the cutoff for out-of-stream has been smaller and smaller, with more getting in. *Up to this point, it was becoming easier to get into the major from outside of the CS admissions stream.*
+
+We can also see that this time, in-stream is ridiculously big, topping the admissions levels we saw during my year, at the apex of COVID admissions, arguably one of the most confusing times for admissions. **We don't know why this in-stream cohort is so big, the department is unlikely to tell us, I don't want to speculate on this**. 
+
+This does tell us it will probably be one of the harder years to get into the program from out-of-stream, if they're sticking around the same number of admissions as usual, expect high standards. Scared? You're allowed to be. 
+
+The thing is, CS PoSt is always scary. 
+
+***Part 4: How was Out of Stream for me?*** 
+
+I came to UofT fully intending to get into Computer Science. I was fully confident I could manage it, but that didn't make the experience any less awful. Being out of stream was a constant reminder that I was not good enough. University admissions didn't think I was good enough, and all of first year was therefore a fight to prove them wrong, and there were all too many chances to screw up. I loved computer science and everything to do with it, and I fought to be able to study the thing I loved. Even so, I saw the community forming with the first-years in the CS stream. Their professor encouraged their camaraderie, and it's not like anyone outside 110/111 got to be a part of that. Not only was there the worry of not getting in, there was the looking knowledge that even if I did, I would have missed a year of building friendships with my peers that I wouldn't be able to catch up to. I spent many nights of first year basically crying myself to sleep from the stress.
+
+Getting into the program proved that fear correct. A circle of in-streamers took me in, but quickly left me by the wayside, largely because I wasn't there in first year. I wasn't there at the beginning, and it left me too far away to properly get closer. That said, I don't regret the process at all. I've had some amazing classes and professors, and met classmates and friends I wouldn't have been around if I didn't get in. I fought for the thing I loved and I got it, and it was worth the hefty personal cost of getting there. Plus, it prepared me better for future CS classes. I think out-of-stream students tend to be more prepared for future challenging courses in general.
+
+CSC148 and 165 are great courses with amazing professors. 148 specifically is one of the most fun courses I've taken. Content-wise, they are almost identical to 110/111. Make no mistake, however, there is a difference. CSC110/111 have been historically easier overall, with more attention to community-buidling between students and less intention to be weed-out courses. I think we often ignore how important that community is and how much of it out-of-stream students miss out on by the time second year begins. 
+
+Out of stream is, by nature, a huge mental health burden and a difficult admission process. I want to emphasize the instructors don't contribute to this difficulty; they teach well and they support their students! It just doesn't remove the fight to prove oneself a strong enough CS student to get in. 
+
+***Part 5: My Advice***
+
+To the prospective out-of-stream applicants reading this, your situation seems pretty bad. Keep in mind that the goal stays the same no matter what the cutoff is: do as well as you possibly can in the course. Shoot for 100%, and don't underestimate what those courses can throw at you. Also, I cannot stress enough, **have fun with the content**. The one thing that carried me forward the most was sheer enjoyment of what I was studying. Programming is fun, and if you have the capacity to enjoy it, dealing with the work becomes much easier. It helps to have a community: make friends with your peers, and keep study groups, they help! 
+
+To in-stream students, both new and old, at least be mindful that the other side exists, and is going through one of the worst experiences UofT has to offer. They might be more jaded, they had different professors, but they got in, they are your peers, and they're worth getting to know. Try not to push them out of your circles, you'll miss out on some awesome people that way. 
+
+In case any instructors, department members, or other such figures are reading, I hope I'm not overstepping with any of the information I've dropped here. Please notify me if I am, and I can remove the information in question in a timely manner. Otherwise, admissions are a difficult process for all involved; decisions can be no easier to make than they are to receive. I think many professors attempt to encourage community-bulding, but I think it is worth calling out the struggles of out-of-stream students and the lack of integration after first year. There are ways to improve on that, even if they aren't immediately clear. I heard stories of teambuilding and community in 110/111 that I never got to be a part of, and I feel a bit disdainful about it; I never got to experience anything like that despite getting into the program. Not an easy thing to change by any means, but I wish it could be changed. 
+
+***Conclusion***
+
+Thus ends my essay-length discussion of everything to do with Computer Science PoSt. As I outlined above, I hope this can contribute towards a better baseline for CS PoSt discussion moving forward. 
+
+Signing off, 
+
+- Snow ",submission,27
+CS Out of Stream: History and Thoughts from a Fourth Year (Feature Length) ,Just2Ghosts,lfwf0om,https://www.reddit.com/r/UofT/comments/1egztqx/cs_out_of_stream_history_and_thoughts_from_a/lfwf0om/,1722471234.0,Cutoff was about 78 avg for out of stream 2023-2024. I think I saw someone post a 79 average on reddit. Unfortunately it’ll probably return back to the extremely high cutoffs with in-stream numbers this year.,comment,3
+CS Out of Stream: History and Thoughts from a Fourth Year (Feature Length) ,Ok-Fish7419,lfxrv3w,https://www.reddit.com/r/UofT/comments/1egztqx/cs_out_of_stream_history_and_thoughts_from_a/lfxrv3w/,1722493679.0,"Although I successfully got into the CompSci department, I still feel very ordinary, like an average person within the department. Before attending college, I had no programming background or access to research or internship opportunities. However, I want to say to all those like me, who are not particularly smart but have dreams and a passionate heart: Even those who are exceptionally talented and outstanding struggle to move forward; how could ordinary people like us expect an easy journey?",comment,3
+CS Out of Stream: History and Thoughts from a Fourth Year (Feature Length) ,deleted,lfxi9v2,https://www.reddit.com/r/UofT/comments/1egztqx/cs_out_of_stream_history_and_thoughts_from_a/lfxi9v2/,1722487993.0,[deleted],comment,2
+CS Out of Stream: History and Thoughts from a Fourth Year (Feature Length) ,aditya_bandekar,lg7dysp,https://www.reddit.com/r/UofT/comments/1egztqx/cs_out_of_stream_history_and_thoughts_from_a/lg7dysp/,1722633751.0,"As a former out-of-stream student (current 4th yr CS major) this all is relatable and completely correct (especially part 4).
+
+
+I wish the department was more transparent about their processes, especially since they impact hundreds of students. For example, im unsure if a reason was ever given for removing access to the CS specialist for the new out-of-streamers.",comment,2
+CS Out of Stream: History and Thoughts from a Fourth Year (Feature Length) ,AmbitiousHonesty,lfvyv6d,https://www.reddit.com/r/UofT/comments/1egztqx/cs_out_of_stream_history_and_thoughts_from_a/lfvyv6d/,1722465288.0,"If this makes anyone feel better, I just wanted to add: UofT CS admission (for gr 12s entering uni) is actually bullshit. So try not to feel that you're not good enough just because you got rejected. 
+
+Their supplementary application, instead of asking for extracurricular, was just questions like ""Tell me a story about you fighting for justice,"" etc. And we all know, when it comes to answering such questions, gr 12s are basically exaggerating or even making up stories. So how do they expect themselves to be capable of identifying the right people they want through reading these mostly made-up stories???
+
+I even know someone who has a Canadian Math Olympiad, student council exec experience, community services, etc. And still got rejected. If they knew these stuff they would 100% have accepted him, but they just chose to ask some weird questions in the supplementary application.",comment,2
+CS Out of Stream: History and Thoughts from a Fourth Year (Feature Length) ,AutoModerator,lfvtjw6,https://www.reddit.com/r/UofT/comments/1egztqx/cs_out_of_stream_history_and_thoughts_from_a/lfvtjw6/,1722463394.0,"Your submission appears to be about undergraduate admissions. Please use the admissions megathread in the future if this is the case! #Thank you. https://www.reddit.com/r/UofT/comments/1996rbb/uoft_undergrad_admissions_mega_thread_fall_2024/
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/UofT) if you have any questions or concerns.*",comment,1
+CS Out of Stream: History and Thoughts from a Fourth Year (Feature Length) ,AntInternational6360,lfxo291,https://www.reddit.com/r/UofT/comments/1egztqx/cs_out_of_stream_history_and_thoughts_from_a/lfxo291/,1722491333.0,"me wipping and reading this, blaming myself for differing my 2023-24 addition and missing on the historic low cut-off while getting a whole new crisis that even if I get in I'm in for 3 years of getting looked down upon by in-stream students. I haven't even started yet(well technically I started studying for 148/165 two months ago) but I want to cry.",comment,1
+CS Out of Stream: History and Thoughts from a Fourth Year (Feature Length) ,BearZestyclose6775,ljtd1hv,https://www.reddit.com/r/UofT/comments/1egztqx/cs_out_of_stream_history_and_thoughts_from_a/ljtd1hv/,1724562397.0,what would the written supplemental for out of stream students be like?,comment,1
+CS Out of Stream: History and Thoughts from a Fourth Year (Feature Length) ,NotAName320,lfxxia3,https://www.reddit.com/r/UofT/comments/1egztqx/cs_out_of_stream_history_and_thoughts_from_a/lfxxia3/,1722497352.0,"cutoff was 78 if you had good supp or extenuating factors probably, i did hear of some low 80s rejected.",comment,1
+CS Out of Stream: History and Thoughts from a Fourth Year (Feature Length) ,DesertofSnow,lfxjn6r,https://www.reddit.com/r/UofT/comments/1egztqx/cs_out_of_stream_history_and_thoughts_from_a/lfxjn6r/,1722488750.0,"Re: average — Good to know! 
+
+Re: community — In retrospect (and I've thought this for at least a year now) I don't think the social aspect of in stream was a big thing to miss out on for me. However, it was a major stressor at the time (especially when I was surrounded by in-stream students on residence). There is something to be said about missing out on becoming a part of a tighter-knit social group from first year, but I may have overemphasized this in the wording of my original post.",comment,3
+CS Out of Stream: History and Thoughts from a Fourth Year (Feature Length) ,Excel8392,lfwom1w,https://www.reddit.com/r/UofT/comments/1egztqx/cs_out_of_stream_history_and_thoughts_from_a/lfwom1w/,1722474919.0,"I have met absolutely brilliant people doing some of the hardest math coursework at UofT undergrad who didn't make it in stream CS, and some people who did make it in stream that I have no clue how they managed to get decent grades in high school.
+
+Unfortunately this is just how this process goes.",comment,2
+CS Out of Stream: History and Thoughts from a Fourth Year (Feature Length) ,AntInternational6360,lfxoh56,https://www.reddit.com/r/UofT/comments/1egztqx/cs_out_of_stream_history_and_thoughts_from_a/lfxoh56/,1722491583.0,"thanks, it made me feel better, I chose my major in 6th grade the first time I printed 'Hello world!', I live and breathe CS and now I'm OOS and very very sad",comment,1
+CS Out of Stream: History and Thoughts from a Fourth Year (Feature Length) ,logicnotemotions10,lfwfidq,https://www.reddit.com/r/UofT/comments/1egztqx/cs_out_of_stream_history_and_thoughts_from_a/lfwfidq/,1722471419.0,"Yea, admission to CS in stream is pretty random. I know someone (family friend) who got rejected from UofT CS, but got accepted to Waterloo CS and Waterloo Software Engineering.",comment,1
+CS Out of Stream: History and Thoughts from a Fourth Year (Feature Length) ,DesertofSnow,lg0m6cb,https://www.reddit.com/r/UofT/comments/1egztqx/cs_out_of_stream_history_and_thoughts_from_a/lg0m6cb/,1722537375.0,"Let's be clear, if you get in you won't be looked down on. There were many in-streamers that see us as better than them, for surviving PoSt, and there's no shortage of good people in the program who you can make friends with. Some of my closest friends are in-streamers I met in first year before I got into the program. There are good people, and you can find them.",comment,3
+CS Out of Stream: History and Thoughts from a Fourth Year (Feature Length) ,NotAName320,lfxy7fn,https://www.reddit.com/r/UofT/comments/1egztqx/cs_out_of_stream_history_and_thoughts_from_a/lfxy7fn/,1722497829.0,"Don't doom too hard. If you're studying already that's a sign of diligence that will pay off for you come the school year. CS post outcomes are largely defined by the effort you put into them.
+
+In addition try getting to know some cs in stream students either through res (if you're living there) or through MAT137. I ended up with some in my friend group and I now have people to go to hackathons with and do final projects in classes with for second year and beyond which is nice.",comment,2
+CS Out of Stream: History and Thoughts from a Fourth Year (Feature Length) ,DesertofSnow,ljtf47o,https://www.reddit.com/r/UofT/comments/1egztqx/cs_out_of_stream_history_and_thoughts_from_a/ljtf47o/,1724563593.0,"I can't say for sure as I'm not certain what happens with it from year to year and it could always change, but for me it was fairly similar to the supplemental I wrote while applying to the CS stream from high school.",comment,1
+CS Out of Stream: History and Thoughts from a Fourth Year (Feature Length) ,Just2Ghosts,lg06cqb,https://www.reddit.com/r/UofT/comments/1egztqx/cs_out_of_stream_history_and_thoughts_from_a/lg06cqb/,1722532476.0,Damn. My supp must’ve been baller then.😅,comment,1
+CS Out of Stream: History and Thoughts from a Fourth Year (Feature Length) ,AntInternational6360,lfxo8dy,https://www.reddit.com/r/UofT/comments/1egztqx/cs_out_of_stream_history_and_thoughts_from_a/lfxo8dy/,1722491432.0,"dude 'overemphasized' is putting it midly, I literally cried while reading it.",comment,2
+CS Out of Stream: History and Thoughts from a Fourth Year (Feature Length) ,DesertofSnow,lfwt2xm,https://www.reddit.com/r/UofT/comments/1egztqx/cs_out_of_stream_history_and_thoughts_from_a/lfwt2xm/,1722476698.0,Many such cases of both,comment,2
+CS Out of Stream: History and Thoughts from a Fourth Year (Feature Length) ,Sudden-Mark-8703,lgbtc7g,https://www.reddit.com/r/UofT/comments/1egztqx/cs_out_of_stream_history_and_thoughts_from_a/lgbtc7g/,1722706156.0,why not just choose to go to a different school then?,comment,1
+CS Out of Stream: History and Thoughts from a Fourth Year (Feature Length) ,BearZestyclose6775,ljti6sc,https://www.reddit.com/r/UofT/comments/1egztqx/cs_out_of_stream_history_and_thoughts_from_a/ljti6sc/,1724565433.0,"ohh ty! also, do you think that to do well on the supp app that you would have to join clubs and have ecs in the first year of uni?",comment,1
+CS Out of Stream: History and Thoughts from a Fourth Year (Feature Length) ,DesertofSnow,ljtitqx,https://www.reddit.com/r/UofT/comments/1egztqx/cs_out_of_stream_history_and_thoughts_from_a/ljtitqx/,1724565829.0,"I don't think so, I didn't have clubs and ecs in my first year. I don't think you ""have to"", but it can definitely help. Those types of things might put you in situations that might make good material for some of the supplemental prompts. 
+
+I'd recommend trying to join some clubs/ecs in first year, but the department won't be directly looking at them (to my knowledge).",comment,1
+CS Out of Stream: History and Thoughts from a Fourth Year (Feature Length) ,BearZestyclose6775,ljtj6fw,https://www.reddit.com/r/UofT/comments/1egztqx/cs_out_of_stream_history_and_thoughts_from_a/ljtj6fw/,1724566047.0,awesome tysm for the info!!,comment,1
