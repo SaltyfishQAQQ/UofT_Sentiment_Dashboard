@@ -20,8 +20,8 @@ st.set_page_config(
 def load_data():
     """Load and preprocess the Reddit data"""
     # Get the path to the CSV file
-    today = datetime.now().strftime('%Y%m')
-    csv_path = Path(f"monthly_top100/{today}/top_100_reddits_{today}.csv")
+    date = (datetime.now().replace(day=1) - pd.DateOffset(months=1)).strftime('%Y%m')
+    csv_path = Path(f"monthly_top100/{date}/top_100_reddits_{date}.csv")
 
     if not csv_path.exists():
         st.error(f"Data file not found at {csv_path}")
@@ -203,6 +203,7 @@ def main():
         st.subheader("📈 Sentiment Score Distribution")
         fig_box = plot_sentiment_score_distribution(df)
         st.plotly_chart(fig_box, use_container_width=True)
+        st.markdown("""*Box plot showing the distribution of sentiment scores across positive, neutral, and negative posts/comments.*""")
     
     with col2:
         st.subheader("🔥 Top Posts by Score")
